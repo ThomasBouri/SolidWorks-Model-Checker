@@ -34,7 +34,6 @@ Reads what Judge produced and presents the rubric. Does not interact with the Sc
 
 
 ## Installation & Use
-1. In SolidWorks: **Tools -> Macro -> New** (save as ModelCheck.swp)
-2. In the VBA Editor: **File -> Import File** (choose the downloaded ModelCheck.bas)
-3. Delete the empty default Module1
-4. Run `Main` and follow the pop-up prompts within SolidWorks
+1. Download the ModelChecker.swp file
+2. In SolidWorks Click Tools > Macro > Run, navigate to the ModelChecker.swp file
+3. Run `Main` and follow the pop-up prompts within SolidWorks
