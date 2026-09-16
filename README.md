@@ -34,6 +34,6 @@ Reads what Judge produced and presents the rubric. Does not interact with the Sc
 
 
 ## Installation & Use
-1. Download the ModelChecker.swp file
+1. Download the .swp file
 2. In SolidWorks Click Tools > Macro > Run, navigate to the ModelChecker.swp file
 3. Run `Main` and follow the pop-up prompts within SolidWorks
