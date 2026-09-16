@@ -1,0 +1,1 @@
+# SolidWorks-Model-Checker
